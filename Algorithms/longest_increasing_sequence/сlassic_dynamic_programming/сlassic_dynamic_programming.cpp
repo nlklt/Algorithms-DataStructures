@@ -55,11 +55,11 @@ int main()
 
     vector<int> a = { 5, 10, 6, 12, 3, 24, 7, 8 };
     
-    cout << "Input: ";
+    cout << "input: ";
     print_vec(a);
 
     auto seq = lis_n2(a);
-    cout << "\nLIS O(n^2): " << seq.size() << "\n-> ";
+    cout << "\nlis O(n^2): " << seq.size() << "\n-> ";
     print_vec(seq);
 
     return 0;
