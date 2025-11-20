@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{20c29248-05b6-4a9e-b00a-8d823455123a}</ProjectGuid>
-    <RootNamespace>LIS</RootNamespace>
+    <ProjectGuid>{289e2a5b-260e-48a0-b5d3-263d29adc978}</ProjectGuid>
+    <RootNamespace>knapsack</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,13 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="lis_algorithm.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="visualize_algorithm.h" />
+    <ClInclude Include="knapsack.h" />
+    <ClInclude Include="utils.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="lis_algorithm.h" />
-    <ClInclude Include="utils.h" />
+    <ClCompile Include="knapsack.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
