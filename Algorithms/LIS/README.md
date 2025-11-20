@@ -42,8 +42,14 @@ for (int i = 0; i < n; ++i)
         }
     }
     // обновляем индекс и длину если нашли более длинную LIS
-    ...
+    if (dp[i] > maxLength)
+        {
+            maxLength = dp[i];
+            maxIndex = i;
+        }
 }
+
+// --------------------------------------------------------------------
 
 // O(n log n) — tails + binSearch + parent
 for (int i = 0; i < n; ++i)
