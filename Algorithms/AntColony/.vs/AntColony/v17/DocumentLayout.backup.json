@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\Algorithms-DataStructures\\Algorithms\\AntColony\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6589832-9C37-4C7E-B997-0076A9AF2C3A}|AntColony.vcxproj|D:\\git\\Algorithms-DataStructures\\Algorithms\\AntColony\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6589832-9C37-4C7E-B997-0076A9AF2C3A}|AntColony.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 690,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\git\\Algorithms-DataStructures\\Algorithms\\AntColony\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\git\\Algorithms-DataStructures\\Algorithms\\AntColony\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAswKcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T15:08:23.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
